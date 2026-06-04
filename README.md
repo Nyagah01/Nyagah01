@@ -20,15 +20,15 @@ A personal site built for my family homecoming, souvenir request form, music, an
 
 **Background**
 
-Academic, BBIT, Strathmore University | Exchange, KTH Royal Institute of Technology
+Academic:BBIT, Strathmore University | Exchange, KTH Royal Institute of Technology
 
-Leadership, Vice President, Strathmore University | Team Coordinator, KTH Africa
+Leadership:Vice President, Strathmore University | Team Coordinator, KTH Africa
 
-Professional interests, AI products, data engineering, fintech, civic tech, cybersecurity
+Professional interests:AI products, data engineering, fintech, civic tech, cybersecurity
 
-Currently exploring, PropTech for the Kenyan rental market, graduate programmes
+Currently exploring:PropTech for the Kenyan rental market, graduate programmes
 
-Based in, Nairobi, Kenya and Stockholm
+Based in, Nairobi, Kenya and Stockholm, Sweden
 
 
 
