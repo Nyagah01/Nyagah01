@@ -19,7 +19,7 @@ Academic, BBIT, Strathmore University | Exchange, KTH Royal Institute of Technol
 Leadership, Vice President, Strathmore University | Team Coordinator, KTH Africa
 Professional interests, AI products, data engineering, fintech, civic tech, cybersecurity
 Currently exploring, PropTech for the Kenyan rental market, graduate programmes
-Based in, Nairobi, Kenya (Stockholm for a few more weeks)
+Based in, Nairobi, Kenya and Stockholm
 
 
 
@@ -30,4 +30,4 @@ Node.js Python SQL Supabase Claude API Twilio React Git Power BI
 **Get in touch**
 Email: briannyagah194@gmail.com
 
-LinkedIn: linkedin.com/in/nyagah
+LinkedIn: https://linkedin.com/in/nyagah
