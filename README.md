@@ -11,7 +11,7 @@ Live at https://familio.bnyagah.workers.dev/
 
 
 **Nyagah Homecoming**
-A personal site built for my family homecoming, souvenir request form, music, animations. Live at nyagahhomecoming.netlify.app
+A personal site built for my family homecoming, souvenir request form, music, animations. Live at https://nyagahhomecoming.netlify.app
 
 
 **Background**
