@@ -6,7 +6,8 @@ I work at the intersection of AI, data engineering, business intelligence, and c
 
 **What I'm building**
 **Familio**
-An AI-powered family accountability app for two. Tasks, shared spaces, AI research per task, WhatsApp reminders, emotion check-ins, and gamified points. Built with Node.js, Supabase, Claude API, Twilio, and plain HTML/CSS/JS. Live at familio.bnyagah.workers.dev
+An AI-powered family accountability app for two. Tasks, shared spaces, AI research per task, WhatsApp reminders, emotion check-ins, and gamified points. Built with Node.js, Supabase, Claude API, Twilio, and plain HTML/CSS/JS. 
+Live at https://familio.bnyagah.workers.dev/
 
 
 **Nyagah Homecoming**
