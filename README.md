@@ -1,4 +1,5 @@
 **Hey, I'm Brian Nyagah** 👋
+
 BBIT graduate from Strathmore University with First Class Honours, and an exchange alumni of KTH Royal Institute of Technology in Sweden.
 I work at the intersection of AI, data engineering, business intelligence, and cybersecurity, and I like building things that actually get used.
 
