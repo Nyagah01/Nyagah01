@@ -41,4 +41,4 @@ Node.js Python SQL Supabase Claude API Twilio React Git Power BI
 
 Email: briannyagah194@gmail.com
 
-LinkedIn: https://linkedin.com/in/nyagah
+LinkedIn: https://linkedin.com/in/nyagahbrian
